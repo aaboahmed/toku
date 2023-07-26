@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:audioplayers_android] /media/smart/New Volume/flutter projects/toku/build/audioplayers_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /media/smart/New Volume/flutter projects/toku/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/3100108cb62e2fec06dcde80a658f73a/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/0c46284c74981e8fd056d25c40e1e900/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/smart/.gradle/caches/transforms-3/3309cff0a301ddf8b0340f8dae510547/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/smart/.gradle/caches/transforms-3/2bf4dcaadbeb338c8fc1ea9cffaf97ec/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/smart/.gradle/caches/transforms-3/0011c86d2faf28aee49edc44363c62c3/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/smart/.gradle/caches/transforms-3/987c97f480ea2e81a324a97277265888/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/smart/.gradle/caches/transforms-3/513698a4576fa92a7c82c929b9b38826/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/smart/.gradle/caches/transforms-3/b114b9b9e7e5c4cfb59278469e3c9169/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/smart/.gradle/caches/transforms-3/264190b3213d588f057956876bc944dd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/smart/.gradle/caches/transforms-3/594d5151a8e133f4c631932d091f6a26/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/smart/.gradle/caches/transforms-3/7d9e964fbb24be5c7fb4134b999c2ad7/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/smart/.gradle/caches/transforms-3/eb537d92c40279bb4488222be02c30e9/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/smart/.gradle/caches/transforms-3/b86dd974f06f05b40d8db57a69b2dc38/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/smart/.gradle/caches/transforms-3/d340b722101be71aaff1676cb4b76bb3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/smart/.gradle/caches/transforms-3/70916065024b922bd58c0fac2695a7a7/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/smart/.gradle/caches/transforms-3/af40aaf799522eb4ed8a2413c81e05da/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/smart/.gradle/caches/transforms-3/adb544905f9307e5956ca0d6e592c5a3/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:3:4-40:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/0c46284c74981e8fd056d25c40e1e900/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/0c46284c74981e8fd056d25c40e1e900/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/smart/.gradle/caches/transforms-3/594d5151a8e133f4c631932d091f6a26/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/smart/.gradle/caches/transforms-3/594d5151a8e133f4c631932d091f6a26/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:4:9-29
+	android:icon
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:5:9-43
+activity#com.example.toku.MainActivity
+ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:6:9-34:20
+	android:launchMode
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:8:13-43
+	android:hardwareAccelerated
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:11:13-47
+	android:windowSoftInputMode
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:12:13-55
+	android:configChanges
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:10:13-163
+	android:theme
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:9:13-47
+	android:name
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:17:13-20:17
+	android:resource
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:19:15-52
+	android:name
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:18:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:28:15-61
+	android:name
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:27:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:32:27-74
+meta-data#flutterEmbedding
+ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:39:13-30
+	android:name
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml:38:13-44
+uses-sdk
+INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml
+MERGED from [:audioplayers_android] /media/smart/New Volume/flutter projects/toku/build/audioplayers_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:audioplayers_android] /media/smart/New Volume/flutter projects/toku/build/audioplayers_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /media/smart/New Volume/flutter projects/toku/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /media/smart/New Volume/flutter projects/toku/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/3100108cb62e2fec06dcde80a658f73a/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/3100108cb62e2fec06dcde80a658f73a/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/0c46284c74981e8fd056d25c40e1e900/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/0c46284c74981e8fd056d25c40e1e900/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/smart/.gradle/caches/transforms-3/3309cff0a301ddf8b0340f8dae510547/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/smart/.gradle/caches/transforms-3/3309cff0a301ddf8b0340f8dae510547/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/smart/.gradle/caches/transforms-3/2bf4dcaadbeb338c8fc1ea9cffaf97ec/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/smart/.gradle/caches/transforms-3/2bf4dcaadbeb338c8fc1ea9cffaf97ec/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/smart/.gradle/caches/transforms-3/0011c86d2faf28aee49edc44363c62c3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/smart/.gradle/caches/transforms-3/0011c86d2faf28aee49edc44363c62c3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/smart/.gradle/caches/transforms-3/987c97f480ea2e81a324a97277265888/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/smart/.gradle/caches/transforms-3/987c97f480ea2e81a324a97277265888/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/smart/.gradle/caches/transforms-3/513698a4576fa92a7c82c929b9b38826/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/smart/.gradle/caches/transforms-3/513698a4576fa92a7c82c929b9b38826/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/smart/.gradle/caches/transforms-3/b114b9b9e7e5c4cfb59278469e3c9169/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/smart/.gradle/caches/transforms-3/b114b9b9e7e5c4cfb59278469e3c9169/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /home/smart/.gradle/caches/transforms-3/264190b3213d588f057956876bc944dd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/smart/.gradle/caches/transforms-3/264190b3213d588f057956876bc944dd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/smart/.gradle/caches/transforms-3/594d5151a8e133f4c631932d091f6a26/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/smart/.gradle/caches/transforms-3/594d5151a8e133f4c631932d091f6a26/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/smart/.gradle/caches/transforms-3/7d9e964fbb24be5c7fb4134b999c2ad7/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/smart/.gradle/caches/transforms-3/7d9e964fbb24be5c7fb4134b999c2ad7/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/smart/.gradle/caches/transforms-3/eb537d92c40279bb4488222be02c30e9/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/smart/.gradle/caches/transforms-3/eb537d92c40279bb4488222be02c30e9/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/smart/.gradle/caches/transforms-3/b86dd974f06f05b40d8db57a69b2dc38/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/smart/.gradle/caches/transforms-3/b86dd974f06f05b40d8db57a69b2dc38/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/smart/.gradle/caches/transforms-3/d340b722101be71aaff1676cb4b76bb3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/smart/.gradle/caches/transforms-3/d340b722101be71aaff1676cb4b76bb3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/smart/.gradle/caches/transforms-3/70916065024b922bd58c0fac2695a7a7/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/smart/.gradle/caches/transforms-3/70916065024b922bd58c0fac2695a7a7/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/smart/.gradle/caches/transforms-3/af40aaf799522eb4ed8a2413c81e05da/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/smart/.gradle/caches/transforms-3/af40aaf799522eb4ed8a2413c81e05da/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/smart/.gradle/caches/transforms-3/adb544905f9307e5956ca0d6e592c5a3/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/smart/.gradle/caches/transforms-3/adb544905f9307e5956ca0d6e592c5a3/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml
+INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /media/smart/New Volume/flutter projects/toku/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/0c46284c74981e8fd056d25c40e1e900/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/0c46284c74981e8fd056d25c40e1e900/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/0c46284c74981e8fd056d25c40e1e900/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/0c46284c74981e8fd056d25c40e1e900/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/0c46284c74981e8fd056d25c40e1e900/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/smart/.gradle/caches/transforms-3/0c46284c74981e8fd056d25c40e1e900/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.toku.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.toku.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/smart/.gradle/caches/transforms-3/81cccfba8090d7710edd28b3912a2069/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
