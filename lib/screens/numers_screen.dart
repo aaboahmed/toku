@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:toku/components/number_item.dart';
-import 'package:toku/model/number.dart';
+import 'package:toku/model/item_model.dart';
 
 class NumbersScreen extends StatelessWidget {
   const NumbersScreen({Key? key}) : super(key: key);
@@ -61,24 +61,15 @@ class NumbersScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        backgroundColor: const Color.fromARGB(255, 34, 26, 0),
-        title: const Text('Numbers'),
-      ),
-      body: ListView(
-        children: [
-          NumberItem(number: numbers[0], color: Colors.orangeAccent),
-          NumberItem(number: numbers[1], color: Colors.orangeAccent),
-          NumberItem(number: numbers[2], color: Colors.orangeAccent),
-          NumberItem(number: numbers[3], color: Colors.orangeAccent),
-          NumberItem(number: numbers[4], color: Colors.orangeAccent),
-          NumberItem(number: numbers[5], color: Colors.orangeAccent),
-          NumberItem(number: numbers[6], color: Colors.orangeAccent),
-          NumberItem(number: numbers[7], color: Colors.orangeAccent),
-          NumberItem(number: numbers[8], color: Colors.orangeAccent),
-          NumberItem(number: numbers[9], color: Colors.orangeAccent),
-        ],
-      ),
-    );
+        appBar: AppBar(
+          backgroundColor: const Color.fromARGB(255, 34, 26, 0),
+          title: const Text('Numbers'),
+        ),
+        body: ListView.builder(
+            itemCount: numbers.length,
+            itemBuilder: (context, index) {
+              return ListItem(
+                  number: numbers[index], color: Colors.orangeAccent);
+            }));
   }
 }

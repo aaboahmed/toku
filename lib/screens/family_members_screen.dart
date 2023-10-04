@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:toku/model/number.dart';
+import 'package:toku/model/item_model.dart';
 
 import '../components/number_item.dart';
 
 class FamilyMembers extends StatelessWidget {
   const FamilyMembers({Key? key}) : super(key: key);
-  final List<ItemModel> numbers = const [
+  final List<ItemModel> familyMember = const [
     ItemModel(
         sound: 'sounds/family_members/father.wav',
         image: 'assets/images/family_members/family_father.png',
@@ -17,7 +17,7 @@ class FamilyMembers extends StatelessWidget {
         jpName: 'Hahaoya',
         enName: 'mother'),
     ItemModel(
-        sound: 'sounds/family_members/grand father.wav',
+        sound: 'sounds/family_members/grand_father.wav',
         image: 'assets/images/family_members/family_grandfather.png',
         jpName: 'Ojīsan',
         enName: 'grand father'),
@@ -27,17 +27,17 @@ class FamilyMembers extends StatelessWidget {
         jpName: 'Musume',
         enName: 'daughter'),
     ItemModel(
-        sound: 'sounds/family_members/grand mother.wav',
+        sound: 'sounds/family_members/grand_mother.wav',
         image: 'assets/images/family_members/family_grandmother.png',
         jpName: 'Obāchan',
         enName: 'grand mother'),
     ItemModel(
-        sound: 'sounds/family_members/older bother.wav',
+        sound: 'sounds/family_members/older_bother.wav',
         image: 'assets/images/family_members/family_older_brother.png',
         jpName: 'Ani',
         enName: 'older brother'),
     ItemModel(
-        sound: 'sounds/family_members/older sister.wav',
+        sound: 'sounds/family_members/older_sister.wav',
         image: 'assets/images/family_members/family_older_sister.png',
         jpName: 'Ane',
         enName: 'older sister'),
@@ -57,14 +57,14 @@ class FamilyMembers extends StatelessWidget {
       ),
       body: ListView(
         children: [
-          NumberItem(number: numbers[0], color: Colors.green),
-          NumberItem(number: numbers[1], color: Colors.green),
-          NumberItem(number: numbers[2], color: Colors.green),
-          NumberItem(number: numbers[3], color: Colors.green),
-          NumberItem(number: numbers[4], color: Colors.green),
-          NumberItem(number: numbers[5], color: Colors.green),
-          NumberItem(number: numbers[6], color: Colors.green),
-          NumberItem(number: numbers[7], color: Colors.green),
+          ListItem(number: familyMember[0], color: Colors.green),
+          ListItem(number: familyMember[1], color: Colors.green),
+          ListItem(number: familyMember[2], color: Colors.green),
+          ListItem(number: familyMember[3], color: Colors.green),
+          ListItem(number: familyMember[4], color: Colors.green),
+          ListItem(number: familyMember[5], color: Colors.green),
+          ListItem(number: familyMember[6], color: Colors.green),
+          ListItem(number: familyMember[7], color: Colors.green),
         ],
       ),
     );
